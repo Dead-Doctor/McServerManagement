@@ -1,0 +1,23 @@
+{
+  "name": "mcservermanagement",
+  "version": "1.0.0",
+  "description": "A Manager for Minecraft Server",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dead-Doctor/McServerManagement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dead-Doctor/McServerManagement/issues"
+  },
+  "homepage": "https://github.com/Dead-Doctor/McServerManagement#readme",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
